@@ -24,7 +24,7 @@ Table Of Contents:
 Colors:
 - Backgrounds, navbar - black #24262a
 - Backgrounds - light gray #f7f9fb
-- Buttons, icons - blue #0b36a8
+- Buttons, icons - blue #964B00
 - Headings text - black #24262a
 - Body text - dark gray #4d5055
 ******************************************/
@@ -134,6 +134,10 @@ a:hover {
 	text-decoration: none;
 }
 
+.brown{
+	color:#964B00
+}
+
 .blue {
 	color: #2259ec;
 }
@@ -153,8 +157,8 @@ a:hover {
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.375rem 2.25rem 1.375rem 2.25rem;
-	border: 1px solid #0b36a8;
-	background-color: #0b36a8;
+	border: 1px solid #964B00;
+	background-color: #964B00;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -165,15 +169,15 @@ a:hover {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #0b36a8; /* needs to stay here because of the color property of a tag */
+	color: #964B00; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-	border: 1px solid #0b36a8;
-	background-color: #0b36a8;
+	border: 1px solid #964B00;
+	background-color: #964B00;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -184,7 +188,7 @@ a:hover {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #0b36a8; /* needs to stay here because of the color property of a tag */
+	color: #964B00; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
@@ -350,9 +354,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.25rem;
-	border: 1px solid #0b36a8;
+	border: 1px solid #964B00;
 	border-radius: 32px;
-	background-color: #0b36a8;
+	background-color: #964B00;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -491,7 +495,7 @@ input[type='checkbox'] {
 }
 
 .navbar .fa-stack-2x {
-	color: #0b36a8;
+	color: #964B00;
 	transition: all 0.2s ease;
 }
 
@@ -505,7 +509,7 @@ input[type='checkbox'] {
 }
 
 .navbar .fa-stack:hover .fa-stack-1x {
-	color: #0b36a8;
+	color: #964B00;
 }
 
 .navbar .navbar-toggler {
@@ -521,7 +525,7 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 5.5rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/header-background.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/header-background1.jpg') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -567,7 +571,7 @@ input[type='checkbox'] {
 
 .basic-1 .time {
 	margin-bottom: 0.5rem;
-	color: #0b36a8;
+	color: #964B00;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 1.5rem;
@@ -606,7 +610,7 @@ input[type='checkbox'] {
 .basic-2 .fas,
 .basic-2 .far {
 	margin-bottom: 1.75rem;
-	color: #0b36a8;
+	color: #964B00;
 	font-size: 3.5rem;
 }
 
@@ -877,12 +881,12 @@ input[type='checkbox'] {
 }
 
 .footer .fa-stack .fa-stack-2x {
-	color: #0b36a8;
+	color: #964B00;
 	transition: all 0.2s ease;
 }
 
 .footer .fa-stack:hover .fa-stack-1x {
-	color: #0b36a8;
+	color: #964B00;
 }
 
 .footer .fa-stack:hover .fa-stack-2x {
@@ -928,7 +932,7 @@ a.back-to-top {
 }
 
 a:hover.back-to-top {
-	background-color: #0b36a8;
+	background-color: #964B00;
 }
 
 
@@ -970,7 +974,7 @@ a:hover.back-to-top {
 }
 
 .ex-cards-1 .card .fa-stack-2x {
-	color: #0b36a8;
+	color: #964B00;
 }
 
 .ex-cards-1 .card .fa-stack-1x {
