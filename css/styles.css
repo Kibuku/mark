@@ -625,8 +625,8 @@ input[type='checkbox'] {
 .split .area-1 {
 	height: 450px;
 	
-	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/GlassB.png') center center no-repeat;
-	background-size: contain;
+	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.2), rgba(25, 26, 29, 0.2)), url('../images/ChangeByDesign.jpg') center center no-repeat;
+	background-size: cover;
 }
 
 .split .area-2 {
